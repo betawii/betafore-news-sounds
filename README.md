@@ -5,3 +5,8 @@ https://www.youtube.com/watch?v=VzTq0rwXI64&t=289s <br> opening an input make th
 
 # Credit
 Thanks to idkwherethisname for ripping the brsar file from digicam!! <br> I will rip the sounds and convert them to ogg :)
+
+
+<br><br>
+brawlcrate use to rip sounds
+https://github.com/soopercool101/BrawlCrate/releases/tag/v0.42h1
