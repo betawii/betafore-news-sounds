@@ -9,3 +9,7 @@ i dont know how to get the sounds from the digicam print channel, <br> the only 
 <br>
 if ur able to rip these sounds in HD from the digicam print channel, lmk by email:
 chrisplayzcontactme@gmail.com!
+<br>
+OR
+<br>
+fork/ do a pull request, replacing these sounds with HD ones that you ripped from the digicam print channel!
